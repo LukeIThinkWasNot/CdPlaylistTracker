@@ -1,0 +1,160 @@
+{
+    "cdNum": 2,
+    "cds": [
+        {
+            "id": 1,
+            "timestamp": "2025-05-29 18:02:30",
+            "songs": [
+                {
+                    "ytid": "kGYD3hkCPAc",
+                    "title": "Escape (Remastered)",
+                    "artist": "Metallica",
+                    "date": "2022-06-07",
+                    "plid": 1
+                },
+                {
+                    "ytid": "zbSjDVcZA2o",
+                    "title": "Master Of Puppets (Remastered)",
+                    "artist": "Metallica",
+                    "date": "2022-06-21",
+                    "plid": 2
+                },
+                {
+                    "ytid": "DTOLj_iGicQ",
+                    "title": "We're Gonna Make It",
+                    "artist": "Twisted Sister",
+                    "date": "2025-01-02",
+                    "plid": 3
+                },
+                {
+                    "ytid": "E_eHDgYFWrY",
+                    "title": "God Hates Us",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2017-07-24",
+                    "plid": 4
+                },
+                {
+                    "ytid": "mmaOyO8FnyQ",
+                    "title": "M.I.A.",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2017-04-08",
+                    "plid": 5
+                },
+                {
+                    "ytid": "ynO3Uv1F1r4",
+                    "title": "What if \"Enter Sandman\" was on \"Ride The Lightning\"? [Remastered]",
+                    "artist": "XenonVortex",
+                    "date": "2020-11-13",
+                    "plid": 6
+                },
+                {
+                    "ytid": "4saOD_KOoSQ",
+                    "title": "Walk",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2020-02-06",
+                    "plid": 7
+                },
+                {
+                    "ytid": "xKSOqLPp16I",
+                    "title": "Demon Speeding",
+                    "artist": "Rob Zombie",
+                    "date": "2018-07-26",
+                    "plid": 8
+                },
+                {
+                    "ytid": "kOV2iTeGQik",
+                    "title": "Walk",
+                    "artist": "Pantera",
+                    "date": "2014-11-08",
+                    "plid": 9
+                },
+                {
+                    "ytid": "n0zgEHOKFYk",
+                    "title": "Danger Line",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2017-07-27",
+                    "plid": 10
+                }
+            ],
+            "errors": []
+        },
+        {
+            "id": 2,
+            "timestamp": "2025-05-29 18:15:26",
+            "songs": [
+                {
+                    "ytid": "ZiIc0HuJ78Q",
+                    "title": "Welcome Home (Sanitarium) (Remastered)",
+                    "artist": "Metallica",
+                    "date": "2022-06-21",
+                    "plid": 1
+                },
+                {
+                    "ytid": "u7T2OR-O2Vk",
+                    "title": "Even Flow",
+                    "artist": "Pearl Jam",
+                    "date": "2015-08-12",
+                    "plid": 2
+                },
+                {
+                    "ytid": "8eGY-4OALgM",
+                    "title": "Heart-Shaped Box",
+                    "artist": "Nirvana",
+                    "date": "2018-07-26",
+                    "plid": 3
+                },
+                {
+                    "ytid": "A9YJv8mq1kM",
+                    "title": "Love-Hate-Sex-Pain",
+                    "artist": "Godsmack",
+                    "date": "2018-07-23",
+                    "plid": 4
+                },
+                {
+                    "ytid": "Q4APBJ1w_tQ",
+                    "title": "Getting Away With Murder",
+                    "artist": "Papa Roach",
+                    "date": "2018-12-12",
+                    "plid": 5
+                },
+                {
+                    "ytid": "TYgxM_suaUw",
+                    "title": "Blinded in Chains",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2017-04-08",
+                    "plid": 6
+                },
+                {
+                    "ytid": "S3UbXWDWZZc",
+                    "title": "Scream",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2017-01-28",
+                    "plid": 7
+                },
+                {
+                    "ytid": "h74nkELyHhM",
+                    "title": "Pain",
+                    "artist": "Three Days Grace",
+                    "date": "2016-04-29",
+                    "plid": 8
+                },
+                {
+                    "ytid": "FDNiE5CKuSw",
+                    "title": "Shepherd of Fire",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2015-08-07",
+                    "plid": 9
+                },
+                {
+                    "ytid": "kL0hUgSPhmA",
+                    "title": "Nightmare",
+                    "artist": "Avenged Sevenfold",
+                    "date": "2017-07-26",
+                    "plid": 10
+                }
+            ],
+            "errors": []
+        }
+    ],
+    "errors": []
+}
