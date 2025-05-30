@@ -1,3 +1,5 @@
+"use client"
+
 import { Music2, CalendarDays, UserCircle } from "lucide-react";
 import { useEffect, useState } from "react";
 

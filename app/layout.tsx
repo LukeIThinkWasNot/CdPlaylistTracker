@@ -2,7 +2,7 @@ import type React from "react";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider"; // Assuming this exists from shadcn setup
+import { ThemeProvider } from "@/components/theme-provider";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,8 +18,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      {" "}
-      {/* Enforce dark mode */}
       <body className={`${inter.className} bg-trueBlack text-gray-100`}>
         <ThemeProvider
           attribute="class"
